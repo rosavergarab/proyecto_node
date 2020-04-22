@@ -1,0 +1,23 @@
+{
+  "name": "proyecto_node",
+  "version": "1.0.0",
+  "description": "esto es el proyecto node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rosavergarab/"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "modules"
+  ],
+  "author": "rvergarab",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
