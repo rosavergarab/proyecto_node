@@ -18,6 +18,7 @@
   "author": "rvergarab",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nocache": "^2.1.0"
   }
 }
